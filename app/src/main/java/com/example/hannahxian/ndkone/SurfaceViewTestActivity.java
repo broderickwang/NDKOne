@@ -19,7 +19,7 @@ import android.view.SurfaceView;
  * Description:
  * Email:wangchengda1990@gmail.com
  **/
-public class ViewTest extends AppCompatActivity {
+public class SurfaceViewTestActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
